@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a mini mad-libs site that I created for a school code projecy
+This is a mini mad-libs site that I created for a school code project
 
 ## Setup/Installation
 
