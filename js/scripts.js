@@ -1,5 +1,8 @@
 window.addEventListener("load", function() {
   let form = document.querySelector("form");
+  let resetBtn = document.querySelector("button#reset");
+  let story = document.querySelector("div#story");
+  
   form.addEventListener("submit", function(event) {
     //const person1Input = document.getElementById("person1Input").value;
     //const person2Input = document.getElementById("person2Input").value;
